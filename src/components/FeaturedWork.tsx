@@ -17,7 +17,7 @@ const projects = [
     title: 'Documentary Short',
     category: 'Documentary',
     description: 'Emotional storytelling through careful editing and atmospheric sound design',
-    thumbnail: 'https://www.youtube.com/embed/jNJG4lKHuf0?si=4ucTFhyJ1ufsiTcp',
+    thumbnail: 'https://www.youtube.com/embed/EKwa7MRfz5E?si=HYpuP1956cZo7Eo7',
     tags: ['Documentary', 'Storytelling', 'Color Grading'],
     icon: Award,
     color: 'from-blue-500 to-cyan-500'

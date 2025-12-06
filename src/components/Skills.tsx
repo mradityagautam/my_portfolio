@@ -8,6 +8,7 @@ const skills = [
     level: 95,
     color: 'from-orange-500 to-red-500'
   },
+  
   {
     icon: Palette,
     title: 'Color Grading',
